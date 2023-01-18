@@ -8,6 +8,7 @@ public class ExportDataApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExportDataApplication.class, args);
+		System.out.println("running");
 	}
 
 }
